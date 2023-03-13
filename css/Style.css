@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+.video {
+    background-color: rgb(233, 188, 90);
+    height: 90vh;
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+
+}
+.contenedor {
+    background-color: rgb(233, 188, 90);
+    height: 160vh;
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+}
+
+.imagenes {
+    background-color: rgb(233, 188, 90);
+    height: 450px;
+    width: 1048px;
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imagenesF {
+    background-color: rgb(233, 188, 90);
+    height: 450px;
+    width: 1048px;
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.turismo {
+    background-color: rgb(233, 188, 90);
+    height: 160vh;
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+
+}
+
+.table{
+    border: 5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+.textot{
+    color: rgb(77, 72, 35);
+    font-size: 25px;
+}
+.flora{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family: 'Tilt Warp';
+}
+
